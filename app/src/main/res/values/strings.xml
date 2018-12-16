@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gamify</string>
+    <string name="toast_tick">toast tick</string>
+</resources>
